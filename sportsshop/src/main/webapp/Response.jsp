@@ -11,7 +11,7 @@
 
 
 <h2> 
-<a href="products.html">Click here</a> to enter products page!!!
+<a href="store.html">Click here</a> to enter Store page!!!
  </h2>
 </body>
 </html>
